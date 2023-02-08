@@ -28,6 +28,10 @@ Additional challenge tasks if you complete the first four:
 ## Data source
 
 U.S. Department of Agriculture, Economic Research Service (2022). [*Food Price Outlook*](https://www.ers.usda.gov/data-products/food-price-outlook/)
+Four spreadsheets are included in the GitHub repo from this source. 
+You can consider using the API to USDA if you want to request developers permissions.
+[API](https://www.ers.usda.gov/developer/data-apis/arms-data-api/)
+[R package](https://cran.r-project.org/web/packages/rarms/index.html)
 
 ## Background
 
