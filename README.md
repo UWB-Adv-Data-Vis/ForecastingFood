@@ -2,13 +2,13 @@
 
 The data dashboard challenge for the Winter 2023 BIS 412 Advanced Data Visualization course. The challenge uses data from the U.S. Department Of Agriculture Economic Research Service (USDA ERS, 2022) to visualize historic records of food prices and forecast predictions.
 
--   Challenge created by and made for the BIS 412 [Advanced Data Visualization](https://github.com/UWB-Adv-Data-Vis) course at the [University of Washington Bothell](https://www.uwb.edu/).
+-   📊 Challenge created by and made for the BIS 412 [Advanced Data Visualization](https://github.com/UWB-Adv-Data-Vis) course at the [University of Washington Bothell](https://www.uwb.edu/).
 
--   Authored by Sharmarke M., Justin L., Marc O., Evan C., Wes H., and Yucheng L.
+-   ✍️ Authored by Sharmarke M., Justin L., Marc O., Evan C., Wes H., and Yucheng L.
 
--   Challenge review committee: Justin L., Rim W., Sindhuja G., and Amanda A.
+-   🔍 Challenge review committee: Justin L., Rim W., Sindhuja G., and Amanda A.
 
--   Edited and supervised by Prof. Caleb Trujillo.
+-   🛠️ Edited and supervised by Prof. Caleb Trujillo.
 
 ## Challenge Description
 
@@ -33,7 +33,7 @@ The two data sets that we have chosen contain food price information from 1974-2
 1.  The plan for the first week includes: Initial processing of the datasets into usable data tables, extracting useful data, and removing useless data. Identifying the most suitable audience groups. Making a draft of the chart by hand where we will plan out the layout and design of the dashboard. During class, we will gather some feedback to revise next week.
 2.  In the second week, we will create several starting visual charts with different styles without consideration of the appearance and layout. We will focus on what kind of chart is best for expressing our data, by considering different audience groups and using data to generate the most general visualization chart. We will present our diagrams in class and get feedback and then make changes.
 3.  In the third week, we will use the feedback data collected from the previous week to modify the visualization charts, and then integrate them into the Shiny dashboard. During this process, we will focus on considering the visual appearance, usability, and layout. Correct the integrated dashboard, eliminate errors as much as possible, and then get feedback in class.
-4.  In the final week, we are going to: Revise, delete any unneeded information, and fix any final structural/design issues on the dashboard. Test the dashboard for ease of use. Get some final feedback and then Publish the final dashboard.
+4.  In the final week, we are going to: Revise, delete any unneeded information, and fix any final design issues on the dashboard. Test the dashboard for ease of use. Get some final feedback and then Publish the final dashboard.
 
 ## Sources
 
