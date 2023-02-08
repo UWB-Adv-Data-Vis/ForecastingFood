@@ -4,11 +4,11 @@ The data dashboard challenge for the Winter 2023 BIS 412 Advanced Data Visualiza
 
 -   📊 Challenge created by and made for the BIS 412 [Advanced Data Visualization](https://github.com/UWB-Adv-Data-Vis) course at the [University of Washington Bothell](https://www.uwb.edu/).
 
--   ✍️ Authored by Sharmarke M., Justin L., Marc O., Evan C., Wes H., and Yucheng L.
+-   ✍️ Authored by (Sharmarke M.)[https://github.com/Sharmake-CS], (Justin L.)[https://github.com/Justin2003], (Marc O.)[https://github.com/MOctavo], (Evan C.)[https://github.com/Chothepro14], (Wes H.)[https://github.com/whuynh2], and (Yucheng L.)[https://github.com/YuchengLiuUW]
 
--   🔍 Challenge review committee: Justin L., Rim W., Sindhuja G., and Amanda A.
+-   🔍 Challenge review committee: (Justin L.)[https://github.com/Justin2003], Rim W., Sindhuja G.[https://github.com/singundeti], and (Amanda A.)[https://github.com/amandaaguzar]
 
--   🛠️ Edited and supervised by Prof. Caleb Trujillo.
+-   🛠️ Edited and supervised by Prof. Caleb Trujillo[https://github.com/calebtru].
 
 ## Challenge Description
 
