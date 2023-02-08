@@ -6,7 +6,7 @@ The data dashboard challenge for the Winter 2023 BIS 412 Advanced Data Visualiza
 
 -   ✍️ Authored by [Sharmarke M.](https://github.com/Sharmake-CS), [Justin L.](https://github.com/Justin2003), [Marc O.](https://github.com/MOctavo), [Evan C.](https://github.com/Chothepro14), [Wes H.](https://github.com/whuynh2), and [Yucheng L.](https://github.com/YuchengLiuUW)
 
--   🔍 Challenge review committee: [Justin L.](https://github.com/Justin2003), [Rim W.](https://github.com/rwolde), [Sindhuja G.](https://github.com/singundeti), and [Amanda A.]([https://github.com/amandaaguzar)
+-   🔍 Challenge review committee: [Justin L.](https://github.com/Justin2003), [Rim W.](https://github.com/rwolde), [Sindhuja G.](https://github.com/singundeti), and [Amanda A.](https://github.com/amandaaguzar)
 
 -   🛠️ Edited and supervised by Prof. [Caleb Trujillo](https://github.com/calebtru).
 
