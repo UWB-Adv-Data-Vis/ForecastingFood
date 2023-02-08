@@ -25,3 +25,13 @@ The article _Food Price Outlook and How USDA Forecasts Retail Food Price Inflati
 2. In the second week, we will create several starting visual charts with different styles without consideration of the appearance and layout. We will focus on what kind of chart is best for expressing our data, by considering different audience groups and using data to generate the most general visualization chart. We will present our diagrams in class and get feedback and then make changes.
 3. In the third week, we will use the feedback data collected from the previous week to modify the visualization charts, and then integrate them into the Shiny dashboard. During this process, we will focus on considering the visual appearance, usability, and layout. Correct the integrated dashboard, eliminate errors as much as possible, and then get feedback in class.
 4. In the final week, we are going to: Revise, delete any unneeded information, and fix any final structural/design issues on the dashboard. Test the dashboard for ease of use. Get some final feedback and then Publish the final dashboard.
+
+## Sources
+
+Kuhns, A., Leibtag, E., Volpe, R., & Roeger, E. (2015). How USDA Forecasts Retail Food Price Inflation (No. 1488-2016-123294). Retrieved February 4, 2023, from https://www.ers.usda.gov/webdocs/publications/47621/52935_tb1940.pdf?v=818.3
+
+MacLachlan, M. J., Chelius, C. A., & Short, G. (2022). Time-Series Methods for Forecasting and Modeling Uncertainty in the Food Price Outlook. Amber Waves: The Economics of Food, Farming, Natural Resources, and Rural America, 2022(Technical Bulletin Number (TB-1957)).
+
+U.S. Department of Agriculture, Economic Research Service, 2022b. Food Price Outlook.
+
+
