@@ -12,13 +12,18 @@ The data dashboard challenge for the Winter 2023 BIS 412 Advanced Data Visualiza
 
 ## Challenge Description
 
-The challenge is to create a dashboard that visualizes the change in pricing over the years 1974-2022 within the food industry and forecasts these changes. Our goal is to design an accessible platform that represents useful information for farmers, processors, wholesalers, consumers, and policymakers to assist in decision-making about the future of pricing and its impacts on our agricultural economy. To meet this challenge, teams should address the following tasks:
+The challenge is to create a dashboard that visualizes the change in pricing over the years 1974-2022 within the food industry and forecasts these changes. Our goal is to design an accessible platform that represents useful information for farmers, processors, wholesalers, consumers, and policymakers to assist in decision-making about the future of pricing and its impacts on our agricultural economy. 
 
--   Display comparisons of successive years in historic records of pricing for each category of food
--   Display categories of food speculated to change in the future using forecasting information
--   Visually identify the category of food fluctuating the most in pricing at user-selected time ranges
+To meet this challenge, teams should address the following tasks:
+
+-   Display comparisons of successive years in historic records of consumer price index for each category of food
+-   Display categories of food speculated to change in the future using forecasting information  for the consumer price index.
+-   Visually identify the category of food fluctuating the most in pricing according to the consumer price index at user-selected time ranges
 -   Visually identify the year that showed the largest changes in the consumer price index for user-selected categories of food
--   Combine the displays with notable changes in pricing that occur with major economic, social, and agricultural events where appropriate.
+
+Additional challenge tasks if you complete the first four:
+-   Create a second dashboard that repeats the measures and displays for the producer price index
+-   Combine the information about notable changes in pricing that occur with major economic, social, and agricultural events into the data displays where appropriate.
 
 ## Data source
 
