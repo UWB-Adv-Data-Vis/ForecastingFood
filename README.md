@@ -12,7 +12,7 @@ The data dashboard challenge for the Winter 2023 BIS 412 Advanced Data Visualiza
 
 ## Challenge Description
 
-The challenge is to create a dashboard that visualizes the change in pricing over the years 1974-2022 within the food industry and forecasts these changes. Our goal is to design an accessible platform that represents useful information for farmers, processors, wholesalers, consumers, and policymakers to assist in decision-making about the future of pricing and its impacts on our agricultural economy. 
+The challenge is to create a dashboard that visualizes the change in pricing over the years 1974-2022 within the food industry and the forecasts for 2023. Our goal is to design an accessible platform that represents useful information for farmers, processors, wholesalers, consumers, and policymakers to assist in decision-making about the future of pricing and its impacts on our agricultural economy. 
 
 To meet this challenge, teams should address the following tasks:
 
