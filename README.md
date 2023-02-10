@@ -16,13 +16,13 @@ The challenge is to create a dashboard that visualizes the change in pricing ove
 
 To meet this challenge, teams should address the following tasks:
 
--   Display comparisons of successive years in historic records of consumer price index for each category of food
+-   Display comparisons of successive years in historic records of the consumer price index for each category of food
 -   Display categories of food speculated to change in the future using forecasting information  for the consumer price index.
 -   Visually identify the category of food fluctuating the most in pricing according to the consumer price index at user-selected time ranges
 -   Visually identify the year that showed the largest changes in the consumer price index for user-selected categories of food
 
 Additional challenge tasks if you complete the first four:
--   Create a second dashboard that repeats the measures and displays for the producer price index
+-   Create a second dashboard that repeats the measures and displays the producer price index historic changes and forecasts
 -   Combine the information about notable changes in pricing that occur with major economic, social, and agricultural events into the data displays where appropriate.
 
 ## Data source
@@ -40,10 +40,32 @@ The two data sets that we have chosen contain food price information from 1974-2
 
 ## Proposed Plan
 
-1.  The plan for the first week includes: Initial processing of the datasets into usable data tables, extracting useful data, and removing useless data. Identifying the most suitable audience groups. Making a draft of the chart by hand where we will plan out the layout and design of the dashboard. During class, we will gather some feedback to revise next week.
-2.  In the second week, we will create several starting visual charts with different styles without consideration of the appearance and layout. We will focus on what kind of chart is best for expressing our data, by considering different audience groups and using data to generate the most general visualization chart. We will present our diagrams in class and get feedback and then make changes.
-3.  In the third week, we will use the feedback data collected from the previous week to modify the visualization charts, and then integrate them into the Shiny dashboard. During this process, we will focus on considering the visual appearance, usability, and layout. Correct the integrated dashboard, eliminate errors as much as possible, and then get feedback in class.
-4.  In the final week, we are going to: Revise, delete any unneeded information, and fix any final design issues on the dashboard. Test the dashboard for ease of use. Get some final feedback and then Publish the final dashboard.
+The plan for the first week includes the following:
+
+* Processing the datasets into usable data tables or Tibbles, extracting useful data, and removing useless rows and columns.
+* Identifying the most suitable audience groups.
+* Making a draft of the chart by hand where we will plan out the layout and design of the dashboard.
+
+
+During class, we will gather some feedback to revise next week.
+
+* In the second week, we will create several starting visual charts with different styles without consideration of the appearance and layout.
+* We will focus on what kind of chart is best for expressing our data by considering different audience groups and using data to generate the most general visualization chart.
+* We will present our diagrams in class to gather feedback
+* Make changes.
+
+In the third week, we will use the feedback data collected from the previous week to modify the visualization charts, and then integrate them into the Shiny dashboard.
+
+* During this process, we will focus on considering the visual appearance, usability, and layout.
+* Correct the integrated dashboard and eliminate errors as much as possible
+* Get feedback in class.
+
+In the final week, we are going to:
+
+* Revise the dashboard, delete any unneeded information, and fix any final design issues on the dashboard.
+* Test the dashboard for ease of use.
+* Get some final feedback
+* Publish the final dashboard.
 
 ## Sources
 
