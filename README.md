@@ -10,6 +10,18 @@ The data dashboard challenge for the Winter 2023 BIS 412 Advanced Data Visualiza
 
 -   🛠️ Edited and supervised by Prof. [Caleb Trujillo](https://github.com/calebtru).
 
+## Learning objectives 
+
+In this assignment you will demoonstrate your ability to:
+
+*    Prepare data by appropriately formatting it for analysis, summarizing, and filtering. For example, organize real-world data using a standard file format (CSV) and organizational approaches (Tidy).
+*    Answer meaningful research questions using the tools in one or more software packages to work with authentic data.
+*    Be capable of running, modifying, and sharing scripts to accomplish analyze data and visualize in one scripting language (R).
+*    Manage project development to store, organize, and track code using digital collaboration tools for reproducibility (GitHub).
+*    Create a data dashboard for the web to disseminate findings and visualization (Shiny)
+*    Describe the rationale, methods, results, and broader social context of your student-led project that used data to answer an interesting question.
+*    Describe and use different types of critical and scientific thinking to develop inquiry into selected projects and critique visualizations.
+
 ## Challenge Description
 
 The challenge is to create a dashboard that visualizes the change in pricing over the years 1974-2022 within the food industry and the forecasts for 2023. Our goal is to design an accessible platform that represents useful information for farmers, processors, wholesalers, consumers, and policymakers to assist in decision-making about the future of pricing and its impacts on our agricultural economy. 
